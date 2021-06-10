@@ -1,0 +1,23 @@
+---
+title: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Notes
+Attention-restoration therapy
+
+Biophilia 
+
+Stress-reduction therapy
+
+Environmental identity — labeling
+
+Visual complexity
+
+Risky play
+
+Hyper-local is just as impactful as a Yosemite
