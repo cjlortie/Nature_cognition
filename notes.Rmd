@@ -1,18 +1,26 @@
 ---
-title: ""
-output: html_document
+title: ''
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Notes
-### Attention-restoration theory (ART)  
-#### Definition  
+# Nature and outdoor places    
+2159 papers DIRECTLY exploring NDD and neuroscience  
+1500 clinical sciences  
+2000 exploring psychology  
+
+## Attention-restoration theory (ART)  
+#### Definition   
 Nature invokes involuntary attention modestly, allowing directed-attention mechanisms a chance to replenish (Kaplan, 1995).  
 
-We are subjected up to 11 million bits of info per second in cites and can process only 15-20 total
+We are subjected up to 11 million bits of info per second in cites and can process only 15-20 total  
+
+**300 individuals** increased performance in cognitive tasks with short walk  
 
 #### Tools  
 directed-attention mechanisms are restored by simple natural experiences
@@ -26,11 +34,13 @@ Creative performance dramatically enhanced
 Creativity requires diffuse attention and incubation  
 Stimulates curiosity and flexibility
 
-### Biophilia (BET)  
+## Biophilia (BET)  
 
 #### Definition  
 evolutionary history & connectedness generate an innate design to connect with nature Kellert & E.O. Wilson 1993 rationale -evolutionary drive to search for survival enhancing settings
 utilitarian, naturalistic, ecoloogical, aesthetic, symbolic, humanistic, moralistic etc  
+
+**8523** individuals reported higher levels of happiness and connection with nature  
 
 #### Tools  
 scientific inquiry of nature, engaging with the senses, creating natural places, conservation, growing food, connecting with the wild   
@@ -43,9 +53,11 @@ the lovebug effect with microbial biomediation - driver-passenger and health on 
 reduce stress, improve cognitive function, and enhance mood and creativity  
 performance - evidence that support physiological recovery, collectively terms healing   
 
-### Stress-reduction therapy (SRT)  
+## Stress-reduction therapy (SRT)  
 #### Definition  
-Stress reduction theory (SRT) provides an explanation for the impact of nature experience on affect. This theory posits that natural environments have a restorative advantage over artificial environments due to the role that they played in our evolution as a species (Ulrich, 1979)
+Stress reduction theory (SRT) provides an explanation for the impact of nature experience on affect. This theory posits that natural environments have a restorative advantage over artificial environments due to the role that they played in our evolution as a species (Ulrich, 1979)  
+
+**2356 individuals** had reduced stress simply viewing nature  
 
 #### Tools  
 viewing visual landscapes  
@@ -56,34 +68,38 @@ fear, anxiety, resting HR, respiration, anger and aggressions, sadness, attentiv
 moderates activation cognitively, ie attenuates cognitive arousal  
 facilitation emotional support for defocussed creative performance in the ideation phase  
 
-
-### Environmental identity — labeling  
-
+## Environmental identity — labeling  
 ### Definition  
 urban nature including trees, water, and simple open spaces can provide an 'escape' and alternative self-applied labels particularly in children  
-liminal places in cities provide an opportinity to try on new labels, ie ecofriendly
+liminal places in cities provide an opportinity to try on new labels, ie ecofriendly  
+Nature doesn't judge you.
 
 #### Tools  
 time, space, lack of structure  
 
 #### Implications  
 addressing nature deficit disorder and can directly influence mental health and general well-being  
+stronger sense of self  
 
-### Visual complexity
+## Visual complexity
 
 ### Definition  
 Work from the SRT hypothesis suggest that relative more complex patterns generate higher benefits
 however evidence suggest tipping points in the complexity needed  
 
+**104 individuals** were scored more creatively when tested following viewing plants  
+
 ### Tools
 Imagery, green walls, even manicured nature
 how low can you go - outside better than inside might be sufficient for performance enhancements   
 
-### Risky play
+## Risky play
 #### Definition  
 Less structure, more permeable places and surfaces, and less rules generate higher cognitive returns
 
-#### Tools  
+**25,782 individuals** benefitted from risky outdoor play in simple tests and happiness  
+
+#### Tools   
 More adventure, less lines  
 
 #### Implications  
