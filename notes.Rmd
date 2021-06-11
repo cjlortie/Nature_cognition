@@ -1,8 +1,7 @@
 ---
 title: ''
-output:
-  pdf_document: default
-  html_document: default
+output: pdf_document
+
 ---
 
 ```{r setup, include=FALSE}
@@ -17,15 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Attention-restoration theory (ART)  
 #### Definition   
 Nature invokes involuntary attention modestly, allowing directed-attention mechanisms a chance to replenish (Kaplan, 1995).  
-
-We are subjected up to 11 million bits of info per second in cites and can process only 15-20 total  
-
-**300 individuals** increased performance in cognitive tasks with short walk  
+We are subjected up to 11 million bits of info per second in cites and can process only 15-20 total **300 individuals** increased performance in cognitive tasks with short walk  
 
 #### Tools  
 directed-attention mechanisms are restored by simple natural experiences
 walk, observation of natural systems, controls were walks or sitting in urban versus more natural systems  
-memory tests like backward span test
+memory tests like backward-span test
 changing task tests to examine executive functions  
 rumination, anxiety  
 
@@ -35,11 +31,9 @@ Creativity requires diffuse attention and incubation
 Stimulates curiosity and flexibility
 
 ## Biophilia (BET)  
-
 #### Definition  
 evolutionary history & connectedness generate an innate design to connect with nature Kellert & E.O. Wilson 1993 rationale -evolutionary drive to search for survival enhancing settings
-utilitarian, naturalistic, ecoloogical, aesthetic, symbolic, humanistic, moralistic etc  
-
+utilitarian, naturalistic, ecological, aesthetic, symbolic, humanistic, moralistic etc  
 **8523** individuals reported higher levels of happiness and connection with nature  
 **4,758** connection = higher eudaimonic wellbeing ie purpose and function  
 
@@ -66,14 +60,14 @@ viewing visual landscapes
 higher levels of natural complexity ie in forests such as through vegetation can elicit greater benefits
 
 #### Implications  
-fear, anxiety, resting HR, respiration, anger and aggressions, sadness, attentivemness improve  
+fear, anxiety, resting HR, respiration, anger and aggressions, sadness, attentiveness improve  
 moderates activation cognitively, ie attenuates cognitive arousal  
 facilitation emotional support for defocussed creative performance in the ideation phase  
 
 ## Environmental identity — labeling  
 ### Definition  
 urban nature including trees, water, and simple open spaces can provide an 'escape' and alternative self-applied labels particularly in children  
-liminal places in cities provide an opportinity to try on new labels, ie ecofriendly  
+liminal places in cities provide an opportunity to try on new labels, ie ecofriendly  
 Nature doesn't judge you.
 
 #### Tools  
@@ -84,15 +78,11 @@ addressing nature deficit disorder and can directly influence mental health and 
 stronger sense of self  
 
 ## Visual complexity
-
 ### Definition  
 Work from the SRT hypothesis suggest that relative more complex patterns generate higher benefits
 however evidence suggest tipping points in the complexity needed  
-
 **104 individuals** were scored more creatively when tested following viewing plants  
-
 **144 individuals** in setting with mystery scenes outdoors had better memory recognition in testing
-
 **443 individuals** tested with natural fractals and and preference and support the notion that natural forms of a fractals, ie in nature including symmetry and branching for instance, can induce alpha states that support wakeful attention via EEGs   
 
 ### Tools
@@ -103,16 +93,13 @@ less simplicity and straight lines in places
 ## Risky play
 #### Definition  
 Less structure, more permeable places and surfaces, and less rules generate higher cognitive returns
-
 **25,782 individuals** benefited from risky outdoor play in simple tests and happiness  
-**318** benefitted from 'green exercise'  
+**318** benefited from 'green exercise'  
 
 #### Tools   
 More adventure, less lines  
 
 #### Implications  
 Open places with less rules and less pre-determined function can provide novel and stimulating playgrounds at least for children - but perhaps adults too!  
-
 local urban spaces just as important as parks to **41,000 respondents globally**  
-
 reciprocity too connection = pro-environment in **13,237 people**
